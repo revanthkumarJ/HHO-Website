@@ -71,6 +71,6 @@ Develop a full-featured website for HHO to streamline its operations, promote tr
 - **LinkedIn Post**: Post the video on LinkedIn, tagging Helping Hands Organization (HHO).
 - **Form Submission**: Share the LinkedIn post link in the Google form provided.
 - **Offline Evaluation**: The top 5 teams, based on responses, will be invited for offline evaluation.
-- **Deadline**: The last date to submit is on the 5th evening by 7:00 PM.
+- **Deadline**: The last date to submit is on the 25th evening by 7:00 PM.
 
 Make sure to highlight all key features, ensure the video is clear, and showcase how your website fulfills HHO's mission!
