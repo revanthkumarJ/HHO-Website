@@ -6,6 +6,9 @@ The Helping Hands Organization (HHO) is a student-driven initiative dedicated to
 ## Problem Statement:
 Develop a full-featured website for HHO to streamline its operations, promote transparency, and effectively communicate its mission. The website should offer features for user authentication, volunteer management, fundraising systems, financial transparency, event management, and an admin page for managing coordinators and fundraising requests.
 
+
+### **You are free to use any technology stack that fits your needs**, such as HTML, CSS, React, Angular, Express.js, Node.js, Firebase, SQL, or any other technology that ensures your project’s feasibility and functionality.
+
 ## Key Requirements:
 
 ### 1. User Authentication:
